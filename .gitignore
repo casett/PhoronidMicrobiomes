@@ -3,4 +3,6 @@ data/primers_removed
 data/filtered
 old
 plots/exploratory
+results/processed_data/seqtab2_tree.rds
 *.Rproj
+*.Rmd

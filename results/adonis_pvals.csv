@@ -1,0 +1,3 @@
+"","Diversity","Metric","Category","Model","pval","Fmod","R2","padj"
+"1","Beta","Weighted Unifrac","SampleType_v2","SampleType_v2 + Seagrass",1e-04,4.42376251861577,0.22874713625551,1e-04
+"2","Beta","Weighted Unifrac","Seagrass","SampleType_v2 + Seagrass",1e-04,4.67253368312285,0.120805388464457,1e-04

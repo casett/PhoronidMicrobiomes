@@ -1,0 +1,5 @@
+"","Data","Diversity","Metric","Category","pval","padj"
+"1","16S","Alpha","Shannon","Individual",0.421042104210421,0.421042104210421
+"2","16S","Alpha","Shannon","Core",0.421042104210421,0.421042104210421
+"3","16S","Alpha","Shannon","Vegetation",0.136413641364136,0.272827282728273
+"4","16S","Alpha","Shannon","SampleType",0.0094009400940094,0.0376037603760376

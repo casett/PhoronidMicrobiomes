@@ -6,6 +6,7 @@
 ### To cite this work or code
 
 Ettinger, C., & Eisen, J. (2024). casett/PhoronidMicrobiomes: v1 (Version v1). Zenodo. https://doi.org/10.5281/zenodo.11225271
+
 Ettinger, C., & Eisen, J. (2024). Phoronid-associated metagenome assembled genomes [Data set]. Zenodo. https://doi.org/10.5281/zenodo.11224924
 
 <i> Manuscript coming soon</i>

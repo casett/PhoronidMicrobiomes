@@ -9,7 +9,8 @@ Ettinger, C., & Eisen, J. (2024). casett/PhoronidMicrobiomes: v1 (Version v1). Z
 
 Ettinger, C., & Eisen, J. (2024). Phoronid-associated metagenome assembled genomes [Data set]. Zenodo. https://doi.org/10.5281/zenodo.11224924
 
-<i> Manuscript coming soon</i>
+Ettinger, C.L. & Eisen, JA. (2024). Phoronids and their tubes harbor distinct microbiomes compared to surrounding sediment. Preprint available on bioRxiv. DOI: [10.1101/2024.05.28.596327](https://doi.org/10.1101/2024.05.28.596327)
+
 
 ### Abstract
 
